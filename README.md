@@ -1,6 +1,6 @@
-# simple-posters
+# ng2-basic-starter
 
-Query movies from TMDB
+Basic starter for kicking off an Angular2 project
 
 Uses:
 - Typescript
@@ -10,8 +10,11 @@ Uses:
 
 `npm install`
 
-API keys are stored outsite repository - Add `secrets.json` to root folder with your API key
-
 ## start
 
 `npm run start`
+
+## Variations
+- Master - No UI toolkit
+- Bootstrap - Bootstrap + FontAwesome
+- Material - Material Design 
